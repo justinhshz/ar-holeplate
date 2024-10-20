@@ -45,7 +45,7 @@
    - 輸入您的 Apple ID 和密碼，添加帳戶。
    - 添加後，選擇您的 Apple ID 所在的團隊。
 
-   ![Apple ID 團隊選擇](https://imgur.com/yGt46fI)
+   ![Xcode設定](https://github.com/justinhshz/ar-holeplate/blob/main/Images/xcode_project_signing.png)
 
 3. **選擇設備並運行應用：**
    - 在 Xcode 工具欄中，點擊 **Scheme** 菜單，選擇您的 iPhone 設備。
@@ -66,7 +66,7 @@
    - **調整動畫速度**：點擊此按鈕會打開一個控制面板（panel），面板中有一個滑桿（slider），用來調整動畫的播放速度，範圍從 1 到 25。您可以拖動滑桿來設置所需的速度，設定完成後，動畫會根據您選擇的速度進行播放。
    - **刪除Holeplate物件**：點擊此按鈕可以刪除目前畫面中的Holeplate物件。
 
-   ![底部導覽列](https://imgur.com/a/DSPKiBu)
+   ![底部導覽列](https://github.com/justinhshz/ar-holeplate/blob/main/Images/navigation_bar.png)
 
 2. 如需幫助，請點擊右上角的「幫助」圖標查看詳細的使用說明。
 
